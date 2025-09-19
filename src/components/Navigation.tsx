@@ -31,7 +31,7 @@ const Navigation = () => {
             <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-lg">DS</span>
             </div>
-            <div className="hidden sm:block">
+            <div className=" sm:block">
               <h1 className="text-xl font-bold text-foreground">Dr. Sofia's Daycare</h1>
               <p className="text-xs text-muted-foreground">& Learning Center</p>
             </div>
